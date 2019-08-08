@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "file:///D:/Nada/Udacity%20Front%20End%20Nanodegree/Javacript/Nada%20Rabie%20-%20fend-project-memory-game-master/index.html",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
